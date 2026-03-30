@@ -1,4 +1,4 @@
-# 🚴 Yulu Hypothesis Case study
+# 🚴 Yulu Hypothesis Testing Case study
 
 ## 📌 Project Overview
 
